@@ -1,0 +1,51 @@
+[
+    {
+      "county": "County A",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "povertyRate": 15.2
+    },
+    {
+      "county": "County B",
+      "latitude": 37.7849,
+      "longitude": -122.4294,
+      "povertyRate": 20.5
+    },
+    {
+      "county": "County C",
+      "latitude": 37.7949,
+      "longitude": -122.4394,
+      "povertyRate": 10.1
+    },
+    {
+      "county": "Allegheny PA",
+      "latitude": 37.8049,
+      "longitude": -122.4494,
+      "povertyRate": 25.0
+    },
+    {
+      "county": "County E",
+      "latitude": 37.8149,
+      "longitude": -122.4594,
+      "povertyRate": 18.3
+    },
+    {
+      "county": "County F",
+      "latitude": 37.8249,
+      "longitude": -122.4694,
+      "povertyRate": 22.4
+    },
+    {
+      "county": "County G",
+      "latitude": 37.8349,
+      "longitude": -122.4794,
+      "povertyRate": 30.2
+    },
+    {
+      "county": "County H",
+      "latitude": 37.8449,
+      "longitude": -122.4894,
+      "povertyRate": 14.6
+    }
+  ]
+  
