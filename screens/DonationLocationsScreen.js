@@ -3,7 +3,7 @@ import { View, Text, TouchableOpacity, FlatList, StyleSheet, Image, ActivityIndi
 import axios from 'axios';
 import { useNavigation } from '@react-navigation/native';
 
-const GOOGLE_PLACES_API_KEY = 'AIzaSyDhxA3CKtamkzvd-gyK0ewUDb7wDAWdHNc';
+const GOOGLE_PLACES_API_KEY = '';
 
 const DonationLocationsScreen = ({ route }) => {
   const nav = useNavigation();
